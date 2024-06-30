@@ -1,0 +1,8 @@
+<div class="users">
+    <button (click)="changeValue()">
+        <img [src]=" 'assets/' + selectedItem.avatar" 
+        [alt]="selectedItem.name" width="40px" height="40px">
+        <p>{{selectedItem.name}}</p>
+        <p>{{age | date}}</p>
+    </button>
+</div>

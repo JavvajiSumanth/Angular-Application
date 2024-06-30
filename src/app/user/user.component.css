@@ -1,0 +1,9 @@
+.users button{
+    background-color: #9B6BEE;
+    display: flex;
+    margin-left: 10px;
+}
+
+img{
+    border-radius: 50%;
+}

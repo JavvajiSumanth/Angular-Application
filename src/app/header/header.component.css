@@ -1,0 +1,17 @@
+.task-image{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+    color: white;
+    width: 750px;
+    height: 300px;
+    margin: 0px;
+    background-color: #621ED6;
+    align-self: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 470px;
+    gap: 0.01rem;
+} 
+
